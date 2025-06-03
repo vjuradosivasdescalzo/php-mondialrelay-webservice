@@ -1,12 +1,12 @@
 {
-  "name": "cba85/php-mondialrelay-webservice",
+  "name": "vjuradosivasdescalzo/php-mondialrelay-webservice",
   "description": "PHP interface for Mondial Relay webservice.",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
-      "name": "Clement Barbaza",
-      "email": "hi@clementbarbaza.com"
+      "name": "V. Jurado",
+      "email": "hi@cleme.com"
     }
   ],
   "autoload": {
