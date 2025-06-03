@@ -50,7 +50,7 @@ class SearchParcelshop extends Method implements MethodInterface
             'Longitude' =>  "/^-?[0-9]{1,2}\.[0-9]{7}$/",
             'Taille' => "/^(XS|S|M|L|XL|XXL|3XL)$/",
             'Poids' => "/^[0-9]{1,6}$/",
-            'Action' => "/^(REL|24R|24L|24X|DRI)$/",
+            'Action' => "/^(SMA|APM|REL|MED|24R|24L|XOH)$/",
             'DelaiEnvoi' => "/^-?[0-9]{2}$/",
             'RayonRecherche' => "/^[0-9]{1,4}$/",
             'TypeActivite' => "/^(\d{3},|\d{3})*$/",
